@@ -22,7 +22,7 @@ SECRET_KEY = 'your-new-secret-key'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['lpreet.pythonanywhere.com']
+ALLOWED_HOSTS = ['https://lpreet.pythonanywhere.com']
 
 # Application definition
 
