@@ -1,0 +1,1 @@
+Final capstone project for Meta Back-End Developer Proffesional Certificate. Project is set up with Django and Version Control with Github. Project is set up with MySQL server. Different API endpoints made and also user Registration, Autherization and Authetication is set up with Django Rest Framework
